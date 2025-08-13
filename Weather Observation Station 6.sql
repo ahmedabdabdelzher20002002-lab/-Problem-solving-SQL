@@ -1,6 +1,6 @@
 /*
     link   : https://www.hackerrank.com/challenges/weather-observation-station-6/problem
-    author : Mohamed Ibrahim
+    author : ahmed abd elzaher
 */
 
 SELECT
